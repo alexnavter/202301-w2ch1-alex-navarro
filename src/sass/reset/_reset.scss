@@ -1,0 +1,27 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+ol,
+li {
+  margin: 0;
+}
+
+ol,
+ul {
+  list-style: non;
+  padding: 0;
+}
+
+button {
+  font-family: inherit;
+}

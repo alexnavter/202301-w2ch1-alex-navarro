@@ -1,0 +1,9 @@
+@use "/src/sass/variables/variables";
+
+.card-content__button {
+  width: 29.6rem;
+  height: 4.8rem;
+  background-color: variables.$main-color;
+  border-color: none;
+  border-radius: 15px;
+}
